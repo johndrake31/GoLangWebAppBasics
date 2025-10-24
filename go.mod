@@ -1,3 +1,3 @@
-module bookings-udemy
+module github.com/johndrake31/GoLangWebAppBasics
 
-go 1.15
+go 1.25.3
